@@ -1,10 +1,3 @@
-# ITP 365 HW04 - Fall 2022 #
+# Tower of Hanoi #
 
-## Student information... ##
-Name: Iris Jeong
-
-Email: irisjeon@usc.edu
-
-Platform: [MAC]
-
-### Notes ###
+Using the graphical capabilities of the ITP library to animate a recursive solution to the Tower of Hanoi problem.
